@@ -1,0 +1,20 @@
+[INFO] [2019-04-02 21:39:40][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@64c64813: startup date [Tue Apr 02 21:39:40 CST 2019]; root of context hierarchy
+[INFO] [2019-04-02 21:39:40][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2019-04-02 21:39:41][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-04-02 21:39:41][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from class path resource [log4j.properties]
+[INFO] [2019-04-02 21:39:41][org.springframework.jdbc.datasource.DriverManagerDataSource]Loaded JDBC driver: com.mysql.jdbc.Driver
+[INFO] [2019-04-02 21:41:11][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@64c64813: startup date [Tue Apr 02 21:41:11 CST 2019]; root of context hierarchy
+[INFO] [2019-04-02 21:41:11][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2019-04-02 21:41:11][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-04-02 21:41:11][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from class path resource [log4j.properties]
+[INFO] [2019-04-02 21:41:11][org.springframework.jdbc.datasource.DriverManagerDataSource]Loaded JDBC driver: com.mysql.jdbc.Driver
+[INFO] [2019-04-02 21:44:22][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@64c64813: startup date [Tue Apr 02 21:44:22 CST 2019]; root of context hierarchy
+[INFO] [2019-04-02 21:44:22][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2019-04-02 21:44:22][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-04-02 21:44:22][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from class path resource [log4j.properties]
+[INFO] [2019-04-02 21:44:22][org.springframework.jdbc.datasource.DriverManagerDataSource]Loaded JDBC driver: com.mysql.jdbc.Driver
+[INFO] [2019-04-02 21:50:28][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@50cbc42f: startup date [Tue Apr 02 21:50:28 CST 2019]; root of context hierarchy
+[INFO] [2019-04-02 21:50:28][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2019-04-02 21:50:28][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-04-02 21:50:28][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from class path resource [log4j.properties]
+[INFO] [2019-04-02 21:50:28][org.springframework.jdbc.datasource.DriverManagerDataSource]Loaded JDBC driver: com.mysql.jdbc.Driver
