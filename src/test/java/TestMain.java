@@ -11,7 +11,7 @@ public class TestMain {
         //加载spring的配置文件
         ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
         UserDaoImpl dao = (UserDaoImpl) context.getBean(IUserDao.class);
-        UserBean userBean=dao.findById(1);
+        UserBean userBean=dao.findById(2);
         System.out.println(userBean.getAddress());
     }
 
